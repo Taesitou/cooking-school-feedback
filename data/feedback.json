@@ -88,5 +88,23 @@
     "comment": "The well method is so satisfying. Dough came together on the first try, which never happens to me.",
     "author": "Priya Sharma",
     "createdAt": "2026-03-05T15:20:00Z"
+  },
+  {
+    "id": "fb-011",
+    "courseSlug": "bread-baking",
+    "lessonSlug": "scoring-dough",
+    "rating": 5,
+    "comment": "The lame technique demo was incredibly helpful.",
+    "author": "Alex Turner",
+    "createdAt": "2026-07-05T16:18:32.312Z"
+  },
+  {
+    "id": "fb-012",
+    "courseSlug": "bread-baking",
+    "lessonSlug": "scoring-dough",
+    "rating": 5,
+    "comment": "The lame technique demo was incredibly helpful.",
+    "author": "Alex Turner",
+    "createdAt": "2026-07-05T16:22:24.158Z"
   }
 ]

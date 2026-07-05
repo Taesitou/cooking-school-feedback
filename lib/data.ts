@@ -50,8 +50,12 @@ export async function addFeedback(
   const createdAt = new Date().toISOString();
 
   const newFeedback: Feedback = {
-    ...entry,
     id,
+    courseSlug: entry.courseSlug,
+    lessonSlug: entry.lessonSlug,
+    rating: entry.rating,
+    comment: entry.comment,
+    author: entry.author,
     createdAt,
   };
 
